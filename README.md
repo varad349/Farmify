@@ -18,4 +18,6 @@
   <img src="screenshots/s2.jfif" width="200">
   <img src="screenshots/s3.jfif" width="200">
   <img src="screenshots/s4.jfif" width="200">
+  <img src="screenshots/s5.jfif" width="200">
+  <img src="screenshots/s6.jfif" width="200">
 </p>
