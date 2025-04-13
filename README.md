@@ -13,3 +13,9 @@
 - 👤 User Profile
 
 ## Screenshots
+<p align="center">
+  <img src="screenshots/s1.jfif" width="200">
+  <img src="screenshots/s2.jfif" width="200">
+  <img src="screenshots/s3.jfif" width="200">
+  <img src="screenshots/s4.jfif" width="200">
+</p>
