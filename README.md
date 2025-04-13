@@ -1,6 +1,6 @@
 # 🌾 Farmify
 
-**Farmify** is a **Flutter-based frontend app** designed to assist farmers with tools like weather updates, marketplace, community forums, government schemes, and learning resources.
+**Farmify** is a **Flutter-based frontend app**(for now) designed to assist farmers with tools like weather updates, marketplace, community forums, government schemes, and learning resources.
 
 ## Features
 
@@ -21,3 +21,10 @@
   <img src="screenshots/s5.jfif" width="200">
   <img src="screenshots/s6.jfif" width="200">
 </p>
+
+## 🚀 Getting Started
+```bash
+git clone https://github.com/yourusername/farmify.git
+cd farmify
+flutter pub get
+flutter run
