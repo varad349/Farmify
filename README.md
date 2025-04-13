@@ -24,7 +24,8 @@
 
 ## 🚀 Getting Started
 ```bash
-git clone https://github.com/yourusername/farmify.git
+
+git clone https://github.com/varad349/Farmify.git
 cd farmify
 flutter pub get
 flutter run
